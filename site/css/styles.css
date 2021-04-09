@@ -1,0 +1,18 @@
+#header-nav{
+	border-radius: 0;
+	border: 0;
+}
+.navbar-brand h1{
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+li
+{
+	text-align: center;
+	clear: right;
+}
