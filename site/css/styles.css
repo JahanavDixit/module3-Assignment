@@ -14,5 +14,29 @@
 li
 {
 	text-align: center;
-	clear: right;
+}
+#title1,#title2,#title3
+{
+	background-color: #808080;
+	margin: 30px;
+	padding: 10px;
+	margin-bottom: 0px;
+	text-align: center;
+	font-weight: bold;
+}
+.Chicken,.Beef,.Sushi{
+	background-color: #808080;
+	margin : 30px;
+	margin-top: 0px;
+	padding: 10px;
+}
+h2
+{
+	margin-bottom: 20px;
+ 	text-align: center;
+	font-weight: bold;	
+}
+#Back{
+font-weight: bold;
+color: #00008B;	
 }
