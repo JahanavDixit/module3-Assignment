@@ -2,6 +2,7 @@
 	border-radius: 0;
 	border: 0;
 }
+
 .navbar-brand h1{
   font-size: 1.5em;
   text-transform: uppercase;
@@ -13,7 +14,7 @@
 }
 li
 {
-	text-align: center;
+	font-weight: bold;
 }
 #title1,#title2,#title3
 {
