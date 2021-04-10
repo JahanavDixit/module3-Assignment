@@ -12,6 +12,10 @@
   margin-bottom: 0;
   line-height: .75;
 }
+ul
+{
+	clear: right;
+}
 li
 {
 	font-weight: bold;
